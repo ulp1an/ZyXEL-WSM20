@@ -1,0 +1,2 @@
+# ZyXEL-WSM20
+ZyXEL Multy M1
